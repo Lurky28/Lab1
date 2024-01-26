@@ -1,15 +1,21 @@
-#section{
+section{
     flex-direction: column, row;
     padding: 10px;
     margin:15px
 
 }
-#p{
+p{
     font-family: Arial, Helvetica, sans-serif;
 }
-#h1{
-    
+
+.title{
+    text-align: center;
 }
+
+body {
+    column-count: 3;
+}
+
 #margin{
     background-color: black;
 }
