@@ -17,9 +17,5 @@ p{
     margin-top: 5px;
     column-count: 3;
 }
-.main-body:first-child{
-    margin-top: 0;
-}
-#margin{
-    background-color: black;
-}
+
+
