@@ -10,12 +10,16 @@ p{
 
 .title{
     text-align: center;
+    font-size: 28px;
 }
 
-body {
+.main-body{
+    margin-top: 5px;
     column-count: 3;
 }
-
+.main-body:first-child{
+    margin-top: 0;
+}
 #margin{
     background-color: black;
 }
